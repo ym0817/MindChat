@@ -1,0 +1,11 @@
+accelerate
+colorama
+cpm_kernels
+sentencepiece
+streamlit
+transformers_stream_generator
+modelscope
+gradio==3.37.0
+tiktoken 
+einops
+transformers>=4.37.0
